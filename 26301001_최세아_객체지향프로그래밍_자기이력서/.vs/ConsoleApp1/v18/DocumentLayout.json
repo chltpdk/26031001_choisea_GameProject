@@ -1,12 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Windows11\\26031001_choisea_GameProject\\26301001_\uCD5C\uC138\uC544_\uAC1D\uCCB4\uC9C0\uD5A5\uD504\uB85C\uADF8\uB798\uBC0D_\uC790\uAE30\uC774\uB825\uC11C\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{5F0043B6-335F-4271-B12D-2D1325CF87DF}|ConsoleApp1.csproj|c:\\users\\windows11\\26031001_choisea_gameproject\\26301001_\uCD5C\uC138\uC544_\uAC1D\uCCB4\uC9C0\uD5A5\uD504\uB85C\uADF8\uB798\uBC0D_\uC790\uAE30\uC774\uB825\uC11C\\26031001_\uCD5C\uC138\uC544_\uAC1D\uCCB4\uC9C0\uD5A5\uD504\uB85C\uADF8\uB798\uBC0D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F0043B6-335F-4271-B12D-2D1325CF87DF}|ConsoleApp1.csproj|solutionrelative:26031001_\uCD5C\uC138\uC544_\uAC1D\uCCB4\uC9C0\uD5A5\uD504\uB85C\uADF8\uB798\uBC0D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\Windows11\\26031001_choisea_GameProject\\ConsoleApp1\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,20 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "26031001_\uCD5C\uC138\uC544_\uAC1D\uCCB4\uC9C0\uD5A5\uD504\uB85C\uADF8\uB798\uBC0D.cs",
-              "DocumentMoniker": "C:\\Users\\Windows11\\26031001_choisea_GameProject\\26301001_\uCD5C\uC138\uC544_\uAC1D\uCCB4\uC9C0\uD5A5\uD504\uB85C\uADF8\uB798\uBC0D_\uC790\uAE30\uC774\uB825\uC11C\\26031001_\uCD5C\uC138\uC544_\uAC1D\uCCB4\uC9C0\uD5A5\uD504\uB85C\uADF8\uB798\uBC0D.cs",
-              "RelativeDocumentMoniker": "26031001_\uCD5C\uC138\uC544_\uAC1D\uCCB4\uC9C0\uD5A5\uD504\uB85C\uADF8\uB798\uBC0D.cs",
-              "ToolTip": "C:\\Users\\Windows11\\26031001_choisea_GameProject\\26301001_\uCD5C\uC138\uC544_\uAC1D\uCCB4\uC9C0\uD5A5\uD504\uB85C\uADF8\uB798\uBC0D_\uC790\uAE30\uC774\uB825\uC11C\\26031001_\uCD5C\uC138\uC544_\uAC1D\uCCB4\uC9C0\uD5A5\uD504\uB85C\uADF8\uB798\uBC0D.cs",
-              "RelativeToolTip": "26031001_\uCD5C\uC138\uC544_\uAC1D\uCCB4\uC9C0\uD5A5\uD504\uB85C\uADF8\uB798\uBC0D.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAwA4AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-29T10:23:01.619Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
