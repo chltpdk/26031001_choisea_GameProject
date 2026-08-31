@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Legion 5 Pro\\Desktop\\26031001_choisea_GameProject\\26301001_\uCD5C\uC138\uC544_\uAC1D\uCCB4\uC9C0\uD5A5\uD504\uB85C\uADF8\uB798\uBC0D_\uC790\uAE30\uC774\uB825\uC11C\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40A4E916-5061-4785-85A8-2A31DC93B2B6}|26031001_Choisea_GameProject_w01.csproj|c:\\users\\legion 5 pro\\desktop\\26031001_choisea_gameproject\\26301001_\uCD5C\uC138\uC544_\uAC1D\uCCB4\uC9C0\uD5A5\uD504\uB85C\uADF8\uB798\uBC0D_\uC790\uAE30\uC774\uB825\uC11C\\26031001_choisea_gameproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40A4E916-5061-4785-85A8-2A31DC93B2B6}|26031001_Choisea_GameProject_w01.csproj|solutionrelative:26031001_choisea_gameproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40A4E916-5061-4785-85A8-2A31DC93B2B6}|26031001_Choisea_GameProject.csproj|c:\\users\\legion 5 pro\\desktop\\26031001_choisea_gameproject\\26301001_\uCD5C\uC138\uC544_\uAC1D\uCCB4\uC9C0\uD5A5\uD504\uB85C\uADF8\uB798\uBC0D_\uC790\uAE30\uC774\uB825\uC11C\\26031001_choisea_gameproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A4E916-5061-4785-85A8-2A31DC93B2B6}|26031001_Choisea_GameProject.csproj|solutionrelative:26031001_choisea_gameproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +24,9 @@
               "RelativeDocumentMoniker": "26031001_Choisea_GameProject.cs",
               "ToolTip": "C:\\Users\\Legion 5 Pro\\Desktop\\26031001_choisea_GameProject\\26301001_\uCD5C\uC138\uC544_\uAC1D\uCCB4\uC9C0\uD5A5\uD504\uB85C\uADF8\uB798\uBC0D_\uC790\uAE30\uC774\uB825\uC11C\\26031001_Choisea_GameProject.cs",
               "RelativeToolTip": "26031001_Choisea_GameProject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-31T09:41:30.622Z",
+              "WhenOpened": "2026-08-31T09:46:20.6Z",
               "EditorCaption": ""
             }
           ]
