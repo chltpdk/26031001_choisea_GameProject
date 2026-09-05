@@ -46,7 +46,7 @@
  
  #[1/3] 시작 화면 (Title Scene)
  
-![시작 화면}(C:\Users\Windows11\26031001_choisea_GameProject\resource\title_scene.png)
+![시작 화면}(C:\Users\Windows11\26031001_choisea_GameProject\resource\play_scene.png)
 
 ### 1. 화면 개요
  - 게임 실행 시 가장 처음 마주하는 타이틀 화면 
