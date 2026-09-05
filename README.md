@@ -38,13 +38,13 @@
    - 음식이 먹을 때마다 실시간으로 다른 위치에 나타남
    - 실패시  실패판정 > 게임 정지 > 데이터 초기화 > 루프 재시작
   
- 
+ ###
  
  # 프로젝트 게임 기획서 
  
  ---
  
- #[1/3] 시작 화면 (Title Scene)
+# [1/3] 시작 화면 (Title Scene)
  
 ![시작 화면}(C:\Users\Windows11\26031001_choisea_GameProject\resource\play_scene.png)
 
@@ -60,7 +60,7 @@
  
  ---
  
-#[2/3] 플레이 화면 (Play Scene)
+# [2/3] 플레이 화면 (Play Scene)
 
 ![플레이 화면](C:\Users\Windows11\26031001_choisea_GameProject\resource\play_scene.png)
 
@@ -77,7 +77,7 @@
 
 ---
 
-#[3/3] 종료 화면 ( Ending Scene)
+# [3/3] 종료 화면 ( Ending Scene)
 
 ![종료 화면](C:\Users\Windows11\26031001_choisea_GameProject\resource\ending_scene.png)
 
